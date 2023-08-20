@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+div{
+    height: 60px;
+    background-color: #0f1111;
+    border-width: 5px;
+    border-color: white;
+}
+
+#amazon{
+    color: #f08804;
+    font-size: 25px;
+    margin-right: 100px;
+    text-decoration: none;
+}
+
+#acc{
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-decoration: none;
+}
+
+#cart{
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-decoration: none;
+}
+
+#cont{
+    color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-decoration: none;
+}
+
+#sinput{
+    margin-left: 100px;
+    text-decoration: none;
+}
+
+#sbut{
+    background-color: #f08804;
+    color: white;
+    border: 0px;
+    text-decoration: none;
+}
+

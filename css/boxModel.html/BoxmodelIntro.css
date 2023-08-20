@@ -1,0 +1,35 @@
+#div1{
+    padding: 20px;
+    height: 150px;
+    width: 150px;
+    border-color: aqua;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#div2{
+    padding: 20px;
+    height: 150px;
+    width: 150px;
+    border-color: pink;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#div3{
+    padding: 20px;
+    height: 150px;
+    width: 150px;
+    border-color: greenyellow;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 30px;
+}
